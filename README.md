@@ -31,7 +31,7 @@
  ![image](https://www.img.in.th/images/c861ff488e263ce9fb78ebcd4729bb5a.png)
   
  
- ![image](https://www.img.in.th/images/62bc097131906da081c4025611a75e01.png)
+ ![image](https://www.img.in.th/images/70bc34db220a79a965d69e82d852c20e.png)
  
   
 ***5.Log Out ทำการกด Log Out เพื่อทำการออกจากระบบ จะย้อนกลับมาที่หน้า Login ซึ่งเป็นหน้าแรกของการใช้งานแอพพลิเคชั่น
