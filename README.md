@@ -8,7 +8,7 @@
 
 ## Extension(ส่วนขยาย)
 *1.หน้า Signin สามารถเข้าใช้งานได้โดยการกรอก Email,Password ระบบจะบันทึกข้อมูลลง Firebase
-  ![image]()
+  ![image](https://www.img.in.th/image/pgAXeg)
   
 *2.หน้า signup เป็นหน้าสำหรับการสมัครสมาชิกเข้าใช้งานแอพพลิเคชั่น โดยมีการให้กรอก Username , Email , Password
   ![image]()
