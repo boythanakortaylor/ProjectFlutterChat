@@ -31,7 +31,7 @@
  ![image](https://www.img.in.th/images/c861ff488e263ce9fb78ebcd4729bb5a.png)
   
  
- ![image](https://www.img.in.th/images/785edd8292c895612a29da391b3cf609.png)
+ ![image](https://www.234.in.th/images/2021/03/29/seharc.png)
  
   
 ***5.Log Out ทำการกด Log Out เพื่อทำการออกจากระบบ จะย้อนกลับมาที่หน้า Login ซึ่งเป็นหน้าแรกของการใช้งานแอพพลิเคชั่น
