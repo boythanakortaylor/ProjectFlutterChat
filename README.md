@@ -41,14 +41,19 @@
   
   
 ## Database(ฐานข้อมูล)
-  #### 1. Firebase สำหรับเก็บข้อมูลของผู้ใช้
+   #### 1. Firebase สำหรับเก็บข้อมูล Login
  
-![image]()
+  ![image](https://www.img.in.th/images/3f6d51446829df856502157c195012b6.png)
+  
+  
+  #### 2. Firebase สำหรับเก็บข้อมูลของผู้ใช้
+ 
+  ![image](https://www.img.in.th/images/ee4af25bd28777fd5e585a439401efc0.png)
 
 
-#### 2. Firebase สำหรับเก็บข้อมูลในการสนทนา
+  #### 3. Firebase สำหรับเก็บข้อมูลในการสนทนา
 
-![image]()
+  ![image](https://www.img.in.th/images/f79ce4fd1f42e3ac44044e0ead2b92fa.png)
 
 
 
