@@ -8,8 +8,7 @@
 
 ## Extension(ส่วนขยาย)
 *1.หน้า Signin สามารถเข้าใช้งานได้โดยการกรอก Email,Password ระบบจะบันทึกข้อมูลลง Firebase
-  ![image]
-  (https://www.img.in.th/images/0b20e664481e21232e8b1c7ed65673af.png)
+  ![image](https://www.img.in.th/images/0b20e664481e21232e8b1c7ed65673af.png)
   
 *2.หน้า signup เป็นหน้าสำหรับการสมัครสมาชิกเข้าใช้งานแอพพลิเคชั่น โดยมีการให้กรอก Username , Email , Password
   ![image]()
