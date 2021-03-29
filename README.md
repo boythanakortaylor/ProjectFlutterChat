@@ -11,7 +11,7 @@
   ![image](https://www.img.in.th/images/0b20e664481e21232e8b1c7ed65673af.png)
   
 *2.หน้า signup เป็นหน้าสำหรับการสมัครสมาชิกเข้าใช้งานแอพพลิเคชั่น โดยมีการให้กรอก Username , Email , Password
-  ![image]()
+  ![image](https://www.img.in.th/images/869fc02f6c5971ac6e3c0f345ab7890b.png)
   
 *3.หน้า Chatroom เเป็นหน้าสำหรับพูดคุยกับผู้ใช้คนอื่นๆ
   ![image]()
