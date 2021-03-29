@@ -7,25 +7,35 @@
 * ดูวิดีโอตัวอย่างได้ที่: https://youtu.be/nQ1GPK1oebU
 
 ## Extension(ส่วนขยาย)
-####1.หน้า Signin สามารถเข้าใช้งานได้โดยการกรอก Email,Password ระบบจะบันทึกข้อมูลลง Firebase
+***1.หน้า Signin สามารถเข้าใช้งานได้โดยการกรอก Email,Password ระบบจะบันทึกข้อมูลลง Firebase
+  
   
   ![image](https://www.img.in.th/images/0b20e664481e21232e8b1c7ed65673af.png)
   
-####2.หน้า signup เป็นหน้าสำหรับการสมัครสมาชิกเข้าใช้งานแอพพลิเคชั่น โดยมีการให้กรอก Username , Email , Password
+  
+***2.หน้า signup เป็นหน้าสำหรับการสมัครสมาชิกเข้าใช้งานแอพพลิเคชั่น โดยมีการให้กรอก Username , Email , Password
+  
   
   ![image](https://www.img.in.th/images/869fc02f6c5971ac6e3c0f345ab7890b.png)
   
+  
 ***3.หน้า Chatroom เเป็นหน้าสำหรับพูดคุยกับผู้ใช้คนอื่นๆ
+  
   
   ![image](https://www.img.in.th/images/61dbe8bb691beae55bae213492042b38.png)
   
-####4.หน้า Search เป็นหน้าสำหรับการค้นหาผู้ใช้งานที่ต้องการสนทนาด้วย โดยค้นจาก Username , Email
   
-  ![image](https://www.img.in.th/images/c861ff488e263ce9fb78ebcd4729bb5a.png)
+***4.หน้า Search เป็นหน้าสำหรับการค้นหาผู้ใช้งานที่ต้องการสนทนาด้วย โดยค้นจาก Username , Email
   
-  ![image](https://www.img.in.th/images/785edd8292c895612a29da391b3cf609.png)
+ 
+ ![image](https://www.img.in.th/images/c861ff488e263ce9fb78ebcd4729bb5a.png)
   
-####5.Log Out ทำการกด Log Out เพื่อทำการออกจากระบบ จะย้อนกลับมาที่หน้า Login ซึ่งเป็นหน้าแรกของการใช้งานแอพพลิเคชั่น
+ 
+ ![image](https://www.img.in.th/images/785edd8292c895612a29da391b3cf609.png)
+ 
+  
+***5.Log Out ทำการกด Log Out เพื่อทำการออกจากระบบ จะย้อนกลับมาที่หน้า Login ซึ่งเป็นหน้าแรกของการใช้งานแอพพลิเคชั่น
+  
   
   ![image](https://www.img.in.th/images/cd8b4891c317bfcef3a92a155bae1df8.png)
   
