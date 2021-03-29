@@ -40,6 +40,9 @@
    ![image](https://www.img.in.th/images/cd8b4891c317bfcef3a92a155bae1df8.png)
   
   
+
+
+
 ## Database(ฐานข้อมูล)
    #### 1. Firebase สำหรับเก็บข้อมูล Login
  
@@ -59,7 +62,4 @@
 
 
 
-## How to run
-* Clone this repo
-* Run `flutter pub get`
-* Run `flutter run` 
+ 
