@@ -10,7 +10,7 @@
 ***1.หน้า Signin สามารถเข้าใช้งานได้โดยการกรอก Email,Password ระบบจะบันทึกข้อมูลลง Firebase
   
   
-  ![image](https://ibb.co/QYKZd13.png)
+  ![image](https://www.img.in.th/images/0fad8c81a0606da4909366464b9c5a9a.png)
   
   
 ***2.หน้า signup เป็นหน้าสำหรับการสมัครสมาชิกเข้าใช้งานแอพพลิเคชั่น โดยมีการให้กรอก Username , Email , Password
@@ -31,7 +31,7 @@
  ![image](https://www.img.in.th/images/c861ff488e263ce9fb78ebcd4729bb5a.png)
   
  
- ![image](https://www.234.in.th/images/2021/03/29/seharc.png)
+ ![image](https://www.img.in.th/images/62bc097131906da081c4025611a75e01.png)
  
   
 ***5.Log Out ทำการกด Log Out เพื่อทำการออกจากระบบ จะย้อนกลับมาที่หน้า Login ซึ่งเป็นหน้าแรกของการใช้งานแอพพลิเคชั่น
